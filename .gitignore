@@ -1,0 +1,38 @@
+# Build outputs
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.pdb
+*.ilk
+*.exp
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+UpgradeLog.htm
+UpgradeLog*.xml
+_UpgradeReport_Files/
+
+# NuGet
+packages/
+*.nupkg
+.nugetaudit/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# CaptureManager SDK demo build dump at solution root
+CaptureManagerSDK-CSharpDemos/Release/
+
+# OS / IDE
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~

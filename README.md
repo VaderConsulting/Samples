@@ -2,7 +2,7 @@
 
 C# sample collection: CaptureManager SDK WPF demos, Flyleaf media player, and OpenCvSharp samples, plus capture ASF assets. Trees cover webcam/screen/RTSP/RTMP capture, FFmpeg/DirectX playback (FlyleafLib), and OpenCvSharp vision apps, with local `Video/*.asf` demo media. Upstream third-party working copies; licenses retained per subtree (see `THIRD_PARTY_NOTICES.md`).
 
-**Source last updated:** 2022-05-22 · **Language:** C# · **Framework:** .NET Framework 4.0–4.8 and .NET 5/6 (Windows) · **Output:** WPF / WinForms sample apps, class libraries, and demo media
+**Source last updated:** 2022-05-22 · **Language:** C# · **Framework:** .NET Framework 4.0-4.8 and .NET 5/6 (Windows) · **Output:** WPF / WinForms sample apps, class libraries, and demo media
 
 ## Solution structure
 
@@ -27,8 +27,10 @@ C# sample collection: CaptureManager SDK WPF demos, Flyleaf media player, and Op
 
 ## Attribution and provenance
 
-- Flyleaf / FlyleafLib: SuRGeoNix — https://github.com/SuRGeoNix/Flyleaf (LGPL-3.0-or-later).
-- OpenCvSharp Samples: upstream OpenCvSharp samples tree (Apache-2.0) — see `OpenCVSharp-Samples-master/LICENSE.md` and `README.md`.
+Working copy from my Historical Dev folder.
+
+- Flyleaf / FlyleafLib: SuRGeoNix - https://github.com/SuRGeoNix/Flyleaf (LGPL-3.0-or-later).
+- OpenCvSharp Samples: upstream OpenCvSharp samples tree (Apache-2.0) - see `OpenCVSharp-Samples-master/LICENSE.md` and `README.md`.
 - CaptureManager SDK C# demos: Evgeny Pereguda / CaptureManager SDK sample set, with bundled OpenSSL, zlib, and librtmp under `3rdparty/` and `RTMP/`.
 - `Video/*.asf`: local capture demo assets kept with this working copy.
 
@@ -36,7 +38,7 @@ Working copy from my Development folder `Samples`.
 
 ## License
 
-Upstream licenses only — do **not** treat this repo as MIT. See `THIRD_PARTY_NOTICES.md`, plus:
+Upstream licenses only - do **not** treat this repo as MIT. See `THIRD_PARTY_NOTICES.md`, plus:
 
 - `Flyleaf-master/LICENSE.txt` (LGPL-3.0)
 - `OpenCVSharp-Samples-master/LICENSE.md` (Apache-2.0)
